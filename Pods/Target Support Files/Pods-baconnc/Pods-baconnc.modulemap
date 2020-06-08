@@ -1,0 +1,6 @@
+framework module Pods_baconnc {
+  umbrella header "Pods-baconnc-umbrella.h"
+
+  export *
+  module * { export * }
+}

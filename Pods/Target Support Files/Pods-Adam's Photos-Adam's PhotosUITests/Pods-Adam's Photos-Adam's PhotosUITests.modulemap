@@ -1,0 +1,6 @@
+framework module Pods_Adam_s_Photos_Adam_s_PhotosUITests {
+  umbrella header "Pods-Adam's Photos-Adam's PhotosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

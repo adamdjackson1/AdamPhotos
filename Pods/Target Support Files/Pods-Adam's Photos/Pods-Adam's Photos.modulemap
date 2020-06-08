@@ -1,0 +1,6 @@
+framework module Pods_Adam_s_Photos {
+  umbrella header "Pods-Adam's Photos-umbrella.h"
+
+  export *
+  module * { export * }
+}

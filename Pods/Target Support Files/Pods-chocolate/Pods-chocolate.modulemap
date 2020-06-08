@@ -1,0 +1,6 @@
+framework module Pods_chocolate {
+  umbrella header "Pods-chocolate-umbrella.h"
+
+  export *
+  module * { export * }
+}
